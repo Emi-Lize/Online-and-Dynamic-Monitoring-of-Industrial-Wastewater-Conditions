@@ -1,4 +1,6 @@
 # Web App to Provide Online and Dynamic Monitoring of Industrial Wastewater Conditions to Enhance Overall Water Treatment System
+>This project was a group project done during my second year at university for a module which spanned two semesters.
+
 The aim of this project is to provide an online and dynamic capture system that is both cost-effective and accessible (without the use of professional equipment) for performing water quality checks. A web application, as well as a computer system, are employed to do this. The computer system works by analysing the water quality using photographs of water. Some modest apparatus (e.g., beaker, food dye, soil and webcam) must be prepared to accomplish this. The data will be kept in a database after the water has been analysed, and then uploaded onto the web application. The data will be shown on the web application, and the off-site operator will be notified of any additional measures that can be performed if the water quality changes.
 
 ### Water Analysis Software
